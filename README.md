@@ -18,15 +18,18 @@
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</a>
 <a href="https://recoiljs.org/" target="_blank">
   <img src="https://img.shields.io/badge/Recoil-464647?style=flat-square&logo=recoil&logoColor=white"/>
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<a href="https://axios-http.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Axios-07658F?style=flat-square&logo=axios&logoColor=white"/>
 </a>
 <a href="https://styled-components.com/" target="_blank">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 </a>
 
 ### Velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=orangetree401&color=dark)](https://velog.io/@orangetree401)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=orangetree401)](https://velog.io/@orangetree401) 
