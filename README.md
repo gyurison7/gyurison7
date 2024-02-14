@@ -7,7 +7,15 @@
 
 &nbsp;
 
+### Portfolio
+
+💻 View my complete portfolio <a href="https://gyurison7.github.io/portfolio/" target="_blank">here.</a>
+
+&nbsp;
+
 ### Skills
+
+#### Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -21,6 +29,12 @@
 <a href="https://sass-lang.com/" target="_blank">
   <img src="https://img.shields.io/badge/SCSS-C6538C?style=flat-square&logo=sass&logoColor=white"/>
 </a>
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://img.shields.io/badge/PHP-787CB5?style=flat-square&logo=php&logoColor=white"/>
+</a>
+
+#### Libraries/Frameworks
+
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </a>
